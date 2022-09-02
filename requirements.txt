@@ -1,0 +1,5 @@
+notebook
+PyYAML
+plyer 
+beautifulsoup4
+-e .
