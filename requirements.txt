@@ -2,4 +2,5 @@ notebook
 PyYAML
 plyer 
 beautifulsoup4
+requests
 -e .

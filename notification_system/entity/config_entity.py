@@ -1,9 +1,6 @@
 from collections import namedtuple
 
-TemplatesConfig = namedtuple("TemplatesConfig", ["clips_dir",
-                                                "sprites_dir",
-                                                "clip_name"])
+TemplatesConfig = namedtuple("TemplatesConfig", ["icon_dir",
+                                                 "icon_name"])
 
-RootAppConfig = namedtuple("RootAppConfig", [
-                                            "screen_width",
-                                            "screen_height"])                                                
+NotificationConfig = namedtuple("NotificationConfig", ["covid_data_url"])                                                

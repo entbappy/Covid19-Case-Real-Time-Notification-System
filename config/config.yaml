@@ -1,0 +1,7 @@
+templates_config:
+  templates_dir: templates
+  icon_dir: icon
+  icon_name: corona.ico
+
+notification_configuration:
+  covid_data_url: https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_data/Bangladesh_medical_cases_by_division
